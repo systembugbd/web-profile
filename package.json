@@ -2,7 +2,6 @@
     "name": "web-profile",
     "version": "1.0.0",
     "description": "Kickstart your personal portfolio with Github Api and blog",
-    "homepage": "https://github.com/systembugbd",
     "private": true,
     "license": "Apache-2.0",
     "author": "Shaheb",
