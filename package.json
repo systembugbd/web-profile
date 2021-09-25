@@ -1,7 +1,7 @@
 {
     "name": "web-profile",
     "version": "1.0.0",
-    "homepage": "https://systembugbd.github.io/web-profile",
+
     "description": "Kickstart your personal portfolio with Github Api and blog",
     "private": true,
     "license": "Apache-2.0",
